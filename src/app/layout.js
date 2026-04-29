@@ -1,10 +1,10 @@
 import "./globals.css";
 
 export const metadata = {
-  title: "Hidro Lar | Encanador Profissional para Residências e Empresas",
+  title: "FrioMax Climatização | Vendas, Instalação e Manutenção",
   description:
-    "Serviços de encanação profissional para residências e empresas. Instalação, manutenção, desentupimento e limpeza de caixas d'água. Atendimento rápido e com garantia.",
-  keywords: "encanador, encanação, hidráulica, desentupimento, limpeza caixa d'água, hidro lar",
+    "Especialistas em refrigeração comercial e residencial. Oferecemos serviços de climatização, manutenção, projetos, vendas e assistência técnica em ar condicionado.",
+  keywords: "ar condicionado, climatização, refrigeração, manutenção, instalação, projetos, assistência técnica",
 };
 
 export default function RootLayout({ children }) {
